@@ -1,6 +1,6 @@
 # index
 
-<a href="https://www.tipblogg.com"> Tipblogg </a>
+<a href="https://www.tipblogg.com" rel="dofollow" > Tipblogg </a>
 <a href="https://us.community.sony.com/s/profile/0054O00000AD1A4">Leaked Video</a><br>
 <a href="https://ap.community.sony.com/s/profile/0054O00000AD1A4">Leaked Video</a><br>
 <a href="https://www.imdb.com/user/ur156570439">Leaked Video</a><br>
